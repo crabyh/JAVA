@@ -1,0 +1,2454 @@
+URL: /logout.php
+Times: 20804
+
+URL: /showCourse.php
+Times: 7412
+
+URL: /index.php
+Times: 3959
+
+URL: /favicon.ico
+Times: 2831
+
+URL: /login.php
+Times: 2562
+
+URL: /
+Times: 1812
+
+URL: /adm/showSubmit.php
+Times: 1620
+
+URL: /images/clhead.gif
+Times: 1324
+
+URL: /~xgy/music/xialala/background/ygm - symgdj.wma
+Times: 882
+
+URL: /dls.php
+Times: 841
+
+URL: /showProblem.php
+Times: 682
+
+URL: /adm/dls.php
+Times: 671
+
+URL: /adm/listSubmits.php
+Times: 303
+
+URL: /teamShow.php
+Times: 265
+
+URL: /courses/CA/2012Spring/p25-patterson.pdf
+Times: 212
+
+URL: /adm/judge.php
+Times: 204
+
+URL: /dl.php
+Times: 201
+
+URL: /courses/CA/2012Spring/p245-hauck.pdf
+Times: 195
+
+URL: /~xgy/music/xialala/background/Ronan Hardiman - That Place In Your Heart.wma
+Times: 191
+
+URL: /editProfile.php
+Times: 183
+
+URL: /images/OFJIcon.jpg
+Times: 176
+
+URL: /submit.php
+Times: 175
+
+URL: /~xgy/music/xialala/leekka - \xa4\xbd\xa4\xd0\xa4\xcb\xa4\xa4\xa4\xeb\xa4\xcd.mp3
+Times: 151
+
+URL: /~wengkai/paper/ZhuHuaiyi.pdf
+Times: 145
+
+URL: /rejudge.php
+Times: 141
+
+URL: /teamList.php
+Times: 132
+
+URL: /courses/ACL/2012Spring/1%20Introduction.pdf
+Times: 128
+
+URL: /phpmyadmin/scripts/modify_tables.php
+Times: 125
+
+URL: /~xgy/music/xialala/yue30_3.mp3
+Times: 125
+
+URL: /courses/PT/2012Spring/3%20UML.pdf
+Times: 121
+
+URL: /tt/index.php
+Times: 119
+
+URL: /editProfileDo.php
+Times: 117
+
+URL: /showSubmit.php
+Times: 114
+
+URL: /robots.txt
+Times: 114
+
+URL: /courses/ACL/2012Spring/2%20ACLLib%20I.pdf
+Times: 99
+
+URL: /courses/JAVA/2012Spring/6%20Loops%20III.pdf
+Times: 93
+
+URL: /showPost.php
+Times: 87
+
+URL: /adm/editSche.php
+Times: 85
+
+URL: /tt/logout.php
+Times: 79
+
+URL: /courses/ACL/2012Spring/acllib.zip
+Times: 79
+
+URL: /courses/BS/2012Spring/sample.rar
+Times: 78
+
+URL: /~wengkai/ham/SDC15955S.jpg
+Times: 73
+
+URL: /adm/editAss.php
+Times: 63
+
+URL: /tt/showCourse.php
+Times: 60
+
+URL: /tt/login.php
+Times: 58
+
+URL: /pentest.php
+Times: 57
+
+URL: /showComment.php
+Times: 57
+
+URL: /~xgy/music/xialala/peerless.mp3
+Times: 57
+
+URL: /editRes.php
+Times: 47
+
+URL: /~wengkai/paper/ZhengHong.pdf
+Times: 47
+
+URL: /tt/images/clhead.gif
+Times: 46
+
+URL: /tt/images/OFJIcon.jpg
+Times: 46
+
+URL: /submitDownload.php
+Times: 46
+
+URL: /courses/ACL/2012Spring/3%20Event-driven.pdf
+Times: 42
+
+URL: /courses/BS/2012Spring/J2EE%20techs.ppt
+Times: 42
+
+URL: /courses/CA/2012Spring/5%20ISA.pdf
+Times: 38
+
+URL: /listSubmits.php
+Times: 37
+
+URL: /~wengkai/
+Times: 37
+
+URL: /climb/list.php
+Times: 36
+
+URL: /~xgy/music/xialala/background/PaulEvans-SevenLittleGirlsSittingintheBackSeat.wma
+Times: 35
+
+URL: /courses/CA/2012Spring/Arch_Lab3.pdf
+Times: 34
+
+URL: /adm/listExams.php
+Times: 34
+
+URL: /courses/CA/2012Spring/Arch_Lab4.ppt
+Times: 34
+
+URL: /viewgrade.php
+Times: 32
+
+URL: /courses/BS/2012Spring/j2ee%20other.ppt
+Times: 31
+
+URL: /adm/showScore.php
+Times: 31
+
+URL: /courses/JAVA/2012Spring/4%20Loops.zip
+Times: 31
+
+URL: /adm/editScheDo.php
+Times: 27
+
+URL: /adm/editStudents.php
+Times: 27
+
+URL: /~wengkai/paper/YouJia.pdf
+Times: 26
+
+URL: /courses/BS/2012Spring/basic.ppt
+Times: 25
+
+URL: /~xgy/music/xialala/background/RonanHardiman-ThatPlaceInYourHeart.wma
+Times: 25
+
+URL: /~wengkai
+Times: 24
+
+URL: /courses/ACL/2012Spring/assignments/3110102754.php
+Times: 24
+
+URL: /courses/BS/2012Spring/JavaScript.ppt
+Times: 23
+
+URL: /courses/CA/2012Spring/Exp%204_new.doc
+Times: 23
+
+URL: /~wengkai/MainBoard.html
+Times: 22
+
+URL: /courses/OOP/2012Spring/7%20Template.pdf
+Times: 22
+
+URL: /~wengkai/MenuBoard.html
+Times: 22
+
+URL: /courses/BS/2012Spring/html.ppt
+Times: 21
+
+URL: /courses/JAVA/2012Spring/3%20Make%20decision.pdf
+Times: 21
+
+URL: /~xgy/music/xialala/background/Paul Evans - Seven Little Girls Sitting in the Back Seat.wma
+Times: 21
+
+URL: /~wengkai/ham/image008.png
+Times: 20
+
+URL: /~xgy/music/xialala/You Are Beautiful.mp3
+Times: 20
+
+URL: /phpmyadmin/scripts/setup.php
+Times: 19
+
+URL: /courses/JAVA/2012Spring/2%20Var.pdf
+Times: 19
+
+URL: /courses/BS/2012Spring/assignment%202(2012spring).doc
+Times: 19
+
+URL: /courses/OOP/2012Spring/5%20Functions.zip
+Times: 18
+
+URL: /~wengkai/ham/9480.jpg
+Times: 18
+
+URL: /tt/showProblem.php
+Times: 18
+
+URL: /adm/editAssDo.php
+Times: 17
+
+URL: /~xgy/music/xialala/background/B-Tribe - Que Mala Vida.wma
+Times: 17
+
+URL: /modiExam.php
+Times: 16
+
+URL: /gao.php
+Times: 16
+
+URL: /adm/modiExam.php
+Times: 16
+
+URL: /courses/BS/2012Spring/assignment%201(2012spring).doc
+Times: 15
+
+URL: /adm/modiExamDo.php
+Times: 14
+
+URL: /courses/JAVA/2012Spring/7%20Array.pdf
+Times: 14
+
+URL: /courses/PT/2012Spring/ISO%20Templates.zip
+Times: 14
+
+URL: /editResDo.php
+Times: 14
+
+URL: /~wengkai/ham/psk80.html
+Times: 13
+
+URL: /courses/JAVA/2012Spring/1%20Introduction.pdf
+Times: 13
+
+URL: /courses/JAVA/2012Spring/pentest.php
+Times: 13
+
+URL: /4x4/solder.html
+Times: 13
+
+URL: /~xgy/music/xialala/background/Queensryche - Silent Lucidity.wma
+Times: 12
+
+URL: /~wengkai/tem/G3101sch.jpg
+Times: 12
+
+URL: /~wengkai/paper/CaiHualin.pdf
+Times: 12
+
+URL: /editPost.php
+Times: 11
+
+URL: /adm/rejudge.php
+Times: 11
+
+URL: /editStudents.php
+Times: 11
+
+URL: /judge.php
+Times: 11
+
+URL: /editSche.php
+Times: 11
+
+URL: /~wengkai/paper/Mousava.pdf
+Times: 10
+
+URL: /delRes.php
+Times: 10
+
+URL: /c.php
+Times: 10
+
+URL: /showScore.php
+Times: 10
+
+URL: /~xgy/music/xialala/background/kitaro - heaven and earth.wma
+Times: 10
+
+URL: /~wengkai/ham/7902/max267.gif
+Times: 10
+
+URL: /courses/CA/2012Spring/Exp%203_new.pdf
+Times: 10
+
+URL: /~wengkai/paper/HeTao.html
+Times: 10
+
+URL: /teamQuit.php
+Times: 10
+
+URL: /teamModify.php
+Times: 9
+
+URL: /courses/ACL/2012Spring/assignments/3110104516/002stat.php
+Times: 9
+
+URL: /adm/editRes.php
+Times: 9
+
+URL: /~wengkai/aprsbox/
+Times: 9
+
+URL: /ls.php
+Times: 9
+
+URL: /~wengkai/aprsbox/manual.html
+Times: 8
+
+URL: /adm/editStudentsDo.php
+Times: 8
+
+URL: /editAss.php
+Times: 8
+
+URL: /tt/dl.php
+Times: 8
+
+URL: /adm/delSche.php
+Times: 8
+
+URL: /phpmyadmin/db_structure.php
+Times: 8
+
+URL: /~wengkai/tem/g3101.html
+Times: 8
+
+URL: /tt/submit.php
+Times: 8
+
+URL: /phpmyadmin/navigation.php
+Times: 8
+
+URL: /~wengkai/ham/7902/res.gif
+Times: 7
+
+URL: /~xgy/music/xialala/leekka - %E3%81%9D%E3%81%B0%E3%81%AB%E3%81%84%E3%82%8B%E3%81%AD.mp3
+Times: 7
+
+URL: /~wengkai/ham/GPwin1.html
+Times: 7
+
+URL: /ppa/navigation.php
+Times: 7
+
+URL: /teamCreate.php
+Times: 7
+
+URL: http://www.baidu.com/
+Times: 6
+
+URL: /~wengkai/projects/2108/
+Times: 6
+
+URL: /~wengkai/gct15/
+Times: 6
+
+URL: /~wengkai/paper/XuXiaolu.files/image003.jpg
+Times: 6
+
+URL: /~wengkai/paper/XuXiaolu.html
+Times: 6
+
+URL: /~wengkai/ham/10pro.html
+Times: 6
+
+URL: /~wengkai/tem/
+Times: 6
+
+URL: /~wengkai/tem/G3101GND.jpg
+Times: 6
+
+URL: /~wengkai/ham/dxcchis.html
+Times: 6
+
+URL: /listExams.php
+Times: 6
+
+URL: /~wengkai/ham/ARandDF.pdf
+Times: 5
+
+URL: /~wengkai/tem/G3101PCB.jpg
+Times: 5
+
+URL: /~wengkai/trailwalk/02spring.files/image002.jpg
+Times: 5
+
+URL: /~xgy/publicdata/xiaolongma.jpg
+Times: 5
+
+URL: /~wengkai/ham/index.html
+Times: 5
+
+URL: /ppa/server_privileges.php
+Times: 5
+
+URL: /courses/CA/2012Spring/4%20Benchmark.pdf
+Times: 5
+
+URL: /~wengkai/gct15/GCT15in.jpg
+Times: 5
+
+URL: /ppa/main.php
+Times: 5
+
+URL: /~wengkai/trailwalk/02spring.html
+Times: 5
+
+URL: /courses/OOP/2012Spring/c++-talk.pdf
+Times: 5
+
+URL: /courses/PT/2012Spring/APRS%20Procotol%20.pdf
+Times: 5
+
+URL: /adm/editSyllabusDo.php
+Times: 5
+
+URL: /adm/delStu.php
+Times: 5
+
+URL: /courses/CA/2012Spring/pentest.php
+Times: 5
+
+URL: /~wengkai/ham/wk08.jpg
+Times: 5
+
+URL: /~wengkai/ham/MainBoard.html
+Times: 4
+
+URL: /data/cache/fuck.php
+Times: 4
+
+URL: /courses/CA/2012Spring/Lab_report_template.doc
+Times: 4
+
+URL: /~wengkai/tem/solder.html
+Times: 4
+
+URL: /tt/
+Times: 4
+
+URL: /%7Exgy/music/xialala/leekka%20-%20%A4%BD%A4%D0%A4%CB%A4%A4%A4%EB%A4%CD.mp3
+Times: 4
+
+URL: /~wengkai/ham/GPWin1.jpg
+Times: 4
+
+URL: /~wengkai/tem/g3103
+Times: 4
+
+URL: /~wengkai/gct15/GCT15-2.jpg
+Times: 4
+
+URL: /~wengkai/ham/9480.pdf
+Times: 4
+
+URL: /~wengkai/aprsbox/s3.jpg
+Times: 4
+
+URL: /~wengkai/ham/SDC15955.JPG
+Times: 4
+
+URL: /~wengkai/paper/ZhuHuaiyi.html
+Times: 4
+
+URL: /\xd0\xc2\xba\xf3\xd7\xba
+Times: 4
+
+URL: /~wengkai/aprsbox/s2.jpg
+Times: 4
+
+URL: /~wengkai/aprsbox/s1.jpg
+Times: 4
+
+URL: /~wengkai/paper/YuChao.html
+Times: 4
+
+URL: /~wengkai/paper/HeTao.files/image003.gif
+Times: 4
+
+URL: /editScheDo.php
+Times: 4
+
+URL: /ppa/css/phpmyadmin.css.php
+Times: 4
+
+URL: /~wengkai/ham/2006tianmushan.html
+Times: 3
+
+URL: /~wengkai/ham/shenshan.gif
+Times: 3
+
+URL: /adm/showCourse.php
+Times: 3
+
+URL: /~wengkai/trailwalk/02fall.html
+Times: 3
+
+URL: /phpmyadmin/sql.php
+Times: 3
+
+URL: /~wengkai/aprsbox/update.html
+Times: 3
+
+URL: /courses/JAVA/2012Spring/gao.php
+Times: 3
+
+URL: /~wengkai/ham/2002BI5Hplan.html
+Times: 3
+
+URL: /~wengkai/paper/HeTao.files/image001.png
+Times: 3
+
+URL: /~wengkai/projects/2108/modules/codec/module.c
+Times: 3
+
+URL: /~wengkai/paper/HeTao.files/image006.wmz
+Times: 3
+
+URL: /~wengkai/other/solar/index.html
+Times: 3
+
+URL: /~wengkai/tem/g3101
+Times: 3
+
+URL: /sdk/../../../../../..//etc/vmware/hostd/vmInventory.xml
+Times: 3
+
+URL: /~wengkai/tem
+Times: 3
+
+URL: /sdk/%2E%2E/%2E%2E/%2E%2E/%2E%2E/%2E%2E/%2E%2E//etc/vmware/hostd/vmInventory.xml
+Times: 3
+
+URL: /~wengkai/paper/HeTao.files/image014.png
+Times: 3
+
+URL: /adm/images/clhead.gif
+Times: 3
+
+URL: http://www.google.com/
+Times: 3
+
+URL: /courses/CA/2012Spring/assignments/
+Times: 3
+
+URL: /courses/JAVA/2012Spring/codinglife.sql
+Times: 3
+
+URL: /adm/logout.php
+Times: 3
+
+URL: /tt/submitDownload.php
+Times: 3
+
+URL: /showcourse.php
+Times: 3
+
+URL: /~wengkai/projects/2108/modules/
+Times: 3
+
+URL: /~wengkai/paper/HeTao.files/image004.png
+Times: 3
+
+URL: /~wengkai/paper/HeTao.files/image010.png
+Times: 3
+
+URL: /modiPost.php
+Times: 3
+
+URL: /~wengkai/projects/2108/boardDesc.html
+Times: 3
+
+URL: /~wengkai/paper/HeTao.files/image012.png
+Times: 3
+
+URL: /~wengkai/paper/HeTao.files/image018.png
+Times: 3
+
+URL: /~wengkai/other/solar/new.jpg
+Times: 3
+
+URL: /~wengkai/ham/
+Times: 3
+
+URL: /~wengkai/paper/index.html
+Times: 3
+
+URL: /~wengkai/paper/HeTao.files/image016.png
+Times: 3
+
+URL: /courses/
+Times: 3
+
+URL: /index
+Times: 3
+
+URL: /phpmyadmin/main.php
+Times: 3
+
+URL: /~wengkai/ham/7902/index.html
+Times: 3
+
+URL: /tt/editProfile.php
+Times: 3
+
+URL: /~wengkai/ham/outdoorradio.html
+Times: 3
+
+URL: /teamJoin.php
+Times: 3
+
+URL: /manager/html
+Times: 3
+
+URL: /phpmyadmin/db_sql.php
+Times: 3
+
+URL: /~wengkai/paper/HeTao.files/image008.png
+Times: 3
+
+URL: /courses/JAVA/2012Spring/7 Array.pdf
+Times: 3
+
+URL: /courses/CA/2012Spring/lab1_help.zip
+Times: 3
+
+URL: /~wengkai/ham/shack.html
+Times: 3
+
+URL: 
+Times: 2
+
+URL: /~wengkai/projects/2108/modules/testhook/
+Times: 2
+
+URL: /data/cache/config_system.php
+Times: 2
+
+URL: /~benjamin/CHD-Dr.No.PNG
+Times: 2
+
+URL: /phpmyadmin/import.php
+Times: 2
+
+URL: /phpmyadmin/db_search.php
+Times: 2
+
+URL: /courses/CA/2012Spring/comp_arch_exp-exp2.pdf
+Times: 2
+
+URL: /~hhbl
+Times: 2
+
+URL: /~wengkai/tem/G3101.jpg
+Times: 2
+
+URL: /~wengkai/ham/2002BI5Hhb.html
+Times: 2
+
+URL: /phpmyadmin/tbl_sql.php
+Times: 2
+
+URL: /phpMyAdmin/index.php
+Times: 2
+
+URL: /~wengkai/paper/YangWei.files/image018.gif
+Times: 2
+
+URL: /ppa/db_structure.php
+Times: 2
+
+URL: /~wengkai/other/solar/
+Times: 2
+
+URL: /plus/config_user.php
+Times: 2
+
+URL: /plus/synconfig.php
+Times: 2
+
+URL: /~wengkai/ham/image007.jpg
+Times: 2
+
+URL: /bbs/data/dvbbs7.mdb
+Times: 2
+
+URL: /Temp/save.asp
+Times: 2
+
+URL: /~wengkai/tem/G3101kit3.jpg
+Times: 2
+
+URL: /~wengkai/ham/29fm.html
+Times: 2
+
+URL: /~benjamin/CHD-Goldeneye.PNG
+Times: 2
+
+URL: /~wengkai/ham/2002bi5hhb.html
+Times: 2
+
+URL: /include/config2.php
+Times: 2
+
+URL: /plue/configg.php
+Times: 2
+
+URL: /~benjamin/chd-DieAnotherDay.PNG
+Times: 2
+
+URL: /include/fuck.php
+Times: 2
+
+URL: /plus/postocar.php
+Times: 2
+
+URL: /~wengkai/ham/7902/
+Times: 2
+
+URL: /~wengkai/projects/2108/modules/lcd/module.c
+Times: 2
+
+URL: /4x4/g3101.html
+Times: 2
+
+URL: /temp/sfsave.asp
+Times: 2
+
+URL: /ppa/export.php
+Times: 2
+
+URL: /~wengkai/ham/9480.zip
+Times: 2
+
+URL: /~benjamin/CHD-Live-And-Let-Die.PNG
+Times: 2
+
+URL: /~xgy/music/xialala/when you told me you loved me.mp3
+Times: 2
+
+URL: /~benjamin/CHD-From-Russia-With-Love.PNG
+Times: 2
+
+URL: http://www.sciencedirect.com/science/journal/00086223
+Times: 2
+
+URL: /~wengkai/projects/2108/modules/codec/
+Times: 2
+
+URL: /yp/fuck.php
+Times: 2
+
+URL: /data/dvbbs7.mdb
+Times: 2
+
+URL: /ppa/db_export.php
+Times: 2
+
+URL: /include/good.php
+Times: 2
+
+URL: /Games/Add_Save.Asp
+Times: 2
+
+URL: /~benjamin/casino.royale.dvd9.720p.bluray.x264.PNG
+Times: 2
+
+URL: /yp/ddos_shell.php
+Times: 2
+
+URL: /plus/ddos.php
+Times: 2
+
+URL: /~wengkai/tem/G3101kit2.jpg
+Times: 2
+
+URL: http://www.google.com/search
+Times: 2
+
+URL: /~wengkai/projects/2108/modules/testcodec/
+Times: 2
+
+URL: /~wengkai/projects/2108
+Times: 2
+
+URL: /phpmyadmin/
+Times: 2
+
+URL: /phpmyadmin/js/functions.js
+Times: 2
+
+URL: /data/cache/ddos_shell.php
+Times: 2
+
+URL: /include/datalist.class.php
+Times: 2
+
+URL: /~benjamin/CHD-Moonraker.PNG
+Times: 2
+
+URL: /courses/CA/2012Spring/Exp%201_new.pdf
+Times: 2
+
+URL: /~wengkai/ham/IMG_2597.jpg
+Times: 2
+
+URL: /~benjamin/CHD-OHMSS.PNG
+Times: 2
+
+URL: /~wengkai/ham/image005.jpg
+Times: 2
+
+URL: /php-my-admin/index.php
+Times: 2
+
+URL: /data/cache/config_user.php
+Times: 2
+
+URL: /courses/OOP/2012Spring/4%20MemoryModel.zip
+Times: 2
+
+URL: /~wengkai/ham/ARDF.html
+Times: 2
+
+URL: /courses/PT/2012Spring/assignments/10421001/101wksign.png
+Times: 2
+
+URL: /~wengkai/tem/TEM.jpg
+Times: 2
+
+URL: /plus/ddos_shell.php
+Times: 2
+
+URL: /ppa/css/print.css
+Times: 2
+
+URL: /yp/good.php
+Times: 2
+
+URL: /tt
+Times: 2
+
+URL: /~wengkai/paper/XuXiaolu.files/image023.gif
+Times: 2
+
+URL: /plus/show.php
+Times: 2
+
+URL: /teamCancel.php
+Times: 2
+
+URL: /~wengkai/tem/G3101res.jpg
+Times: 2
+
+URL: /phpmyadmin/index.php
+Times: 2
+
+URL: /~wengkai/projects/2108/modules/keypad/
+Times: 2
+
+URL: /~wengkai/projects/2108/modules/hook/Makefile
+Times: 2
+
+URL: /plus/hero.php
+Times: 2
+
+URL: /~wengkai/ham/nightsignals.html
+Times: 2
+
+URL: /data/cache/good.php
+Times: 2
+
+URL: /~wengkai/ham/arunm.html
+Times: 2
+
+URL: /~wengkai/ham/7902/sch.gif
+Times: 2
+
+URL: /adm/passStu.php
+Times: 2
+
+URL: /yp/config_system.php
+Times: 2
+
+URL: /save.asp
+Times: 2
+
+URL: /~wengkai/paper/YuChao.files/image029.gif
+Times: 2
+
+URL: /~wengkai/ham/2003president.html
+Times: 2
+
+URL: /~benjamin/CHD-FYEO.PNG
+Times: 2
+
+URL: /~benjamin/CHD-You-Only-Live-Twice.PNG
+Times: 2
+
+URL: /~benjamin/CHD-TSWLM.PNG
+Times: 2
+
+URL: /~wengkai/ham/tamen.html
+Times: 2
+
+URL: /gmsave.asp
+Times: 2
+
+URL: /~wengkai/tem/G3101kit.jpg
+Times: 2
+
+URL: /~wengkai/tem/g3101.htmlwww.360buy.com/products/1672-2576-3999.html
+Times: 2
+
+URL: /yp/config_user.php
+Times: 2
+
+URL: /~benjamin/WayNe-TWINE.PNG
+Times: 2
+
+URL: /plug/save.asp
+Times: 2
+
+URL: /include/config_system.php
+Times: 2
+
+URL: /~wengkai/other/2008address.html
+Times: 2
+
+URL: /~benjamin/CHD-TMWTGG.PNG
+Times: 2
+
+URL: /~benjamin/CHD-TND.PNG
+Times: 2
+
+URL: /phpmyadmin/css/phpmyadmin.css.php
+Times: 2
+
+URL: /~benjamin/CHD-Thunderball.PNG
+Times: 2
+
+URL: /~wengkai/projects/2108/modules/lcd/lcddrv.c
+Times: 2
+
+URL: /~benjamin/CHD-Goldfinger.PNG
+Times: 2
+
+URL: /~wengkai/projects/2108/modules/flash/flash_intel.h
+Times: 2
+
+URL: /plus/system.php
+Times: 2
+
+URL: /svn/aprs
+Times: 2
+
+URL: /include/ddos_shell.php
+Times: 2
+
+URL: /~wengkai/projects/2108/modules/testcodec/play
+Times: 2
+
+URL: /plus/good.php
+Times: 2
+
+URL: /~benjamin/CHD-DAF.PNG
+Times: 2
+
+URL: /include/config_user.php
+Times: 2
+
+URL: /plus/md5.php
+Times: 2
+
+URL: /plus/config_system.php
+Times: 2
+
+URL: /ppa/
+Times: 2
+
+URL: /~wengkai/ham/2005qingliangfeng.html
+Times: 2
+
+URL: /courses/SE/2011Summer/assignments/3090101337/JP-4Quiz2-3090101337-bute.pdf
+Times: 1
+
+URL: /phpmyadmin/tbl_structure.php
+Times: 1
+
+URL: /~wengkai/other/solar/newboard.jpg
+Times: 1
+
+URL: /~wengkai/paper/YangWei.files/image015.jpg
+Times: 1
+
+URL: /~wengkai/resume.html
+Times: 1
+
+URL: /plus/rxfmmd5.php
+Times: 1
+
+URL: /phpmyadmin/favicon.ico
+Times: 1
+
+URL: /courses/CA/2012Spring/1%20Introduction.pdf
+Times: 1
+
+URL: /~wengkai/paper/HeTao.files/image013.jpg
+Times: 1
+
+URL: /phpmyadmin/themes/original/img/s_asci.png
+Times: 1
+
+URL: /courses/SD/2011Summer/assignments/3090000002/007Project%20Report.pdf
+Times: 1
+
+URL: /admin/pma/index.php
+Times: 1
+
+URL: /%7Ewengkai/paper/XuXiaolu.files/filelist.xml
+Times: 1
+
+URL: /ppa/themes/original/img/b_home.png
+Times: 1
+
+URL: /books/OOPLabCover.jpg
+Times: 1
+
+URL: /ppa/themes/original/img/b_sbrowse.png
+Times: 1
+
+URL: /books/OFJCover.jpg
+Times: 1
+
+URL: /courses/OOP/2011Spring/assignments/3090102416/
+Times: 1
+
+URL: /ppa/themes/original/img/s_host.png
+Times: 1
+
+URL: /phpmyadmin/themes/original/img/s_notice.png
+Times: 1
+
+URL: /courses/ADN/2011Summer/D2.pdf
+Times: 1
+
+URL: /MyAdmin/scripts/setup.php
+Times: 1
+
+URL: /4x4/G3103.jpg
+Times: 1
+
+URL: /ppa/themes/original/img/b_empty.png
+Times: 1
+
+URL: /ppa/js/navigation.js
+Times: 1
+
+URL: /phpMyAdmin-2.2.3/index.php
+Times: 1
+
+URL: /data/cache/xeblfuck.php
+Times: 1
+
+URL: /ppa/themes/original/img/logo_right.png
+Times: 1
+
+URL: /tt/editStudents.php
+Times: 1
+
+URL: /data/cache/tcrbddos_shell.php
+Times: 1
+
+URL: /ppa
+Times: 1
+
+URL: /courses/SE/2011Summer/assignments/3090000128/JP-4Lab%20Quiz.pdf
+Times: 1
+
+URL: /courses/C/2011Fall/LOGO.pdf
+Times: 1
+
+URL: /mngUsers.php
+Times: 1
+
+URL: /phpmyadmin/themes/original/img/b_sqlhelp.png
+Times: 1
+
+URL: /phpMyAdmin-2.5.5/index.php
+Times: 1
+
+URL: /data/cache/uabcconfig_user.php
+Times: 1
+
+URL: /phpmyadmin/themes/original/img/arrow_ltr.png
+Times: 1
+
+URL: /courses/SD/2011Summer/1%20Introduction.pdf
+Times: 1
+
+URL: /~wengkai/ham/mainboard.html
+Times: 1
+
+URL: /~wengkai/ham/7902/psch.gif
+Times: 1
+
+URL: /~wengkai/trailwalk/02spring.files/DSC00506.JPG
+Times: 1
+
+URL: /%7Ewengkai
+Times: 1
+
+URL: /~wengkai/paper/LiBenjia.files/image003.jpg
+Times: 1
+
+URL: /ppa/themes/original/img/b_docs.png
+Times: 1
+
+URL: /plus/bdqnddos_shell.php
+Times: 1
+
+URL: /~wengkai/ham/nwk08.jpg
+Times: 1
+
+URL: /~xgy/publicdata/EligibilityDecisionTree2007.pdf
+Times: 1
+
+URL: /courses/SD/2011Summer/assignments/3090101337/00404%20-%20Software%20Test%20Plan%20(no%20cross-page%20section%20start).pdf
+Times: 1
+
+URL: /phpmyadmin/themes/original/img/s_db.png
+Times: 1
+
+URL: /courses/SE/2011Summer/assignments/3090000128/JP-1Team_480_OMG_is_a_client.pdf
+Times: 1
+
+URL: /~wengkai/projects/2108/modules/hook/
+Times: 1
+
+URL: /phpmyadmin/themes/original/img/logo_right.png
+Times: 1
+
+URL: /data/cache/vxvfgood.php
+Times: 1
+
+URL: /~wengkai/paper/LiBenjia.files/image017.gif
+Times: 1
+
+URL: /phpmyadmin/themes/original/img/b_engine.png
+Times: 1
+
+URL: /~wengkai/projects/2108/modules/testflash/main.c
+Times: 1
+
+URL: /ppa/themes/original/img/b_selboard.png
+Times: 1
+
+URL: /phpmyadmin/themes/original/img/b_export.png
+Times: 1
+
+URL: /~wengkai/other/solar/old1.jpg
+Times: 1
+
+URL: /~wengkai/paper/HeTao.files/image015.jpg
+Times: 1
+
+URL: /phpmyadmin/themes/original/img/b_search.png
+Times: 1
+
+URL: /ppa/themes/original/img/b_usradd.png
+Times: 1
+
+URL: /phpmyadmin
+Times: 1
+
+URL: /plus/gemwshow.php
+Times: 1
+
+URL: /~wengkai/projects/2108/modules/testcodec/echo.c
+Times: 1
+
+URL: /courses/SD/2011Summer/assignments/3090102896/015Weekly%20Report%20V.pdf
+Times: 1
+
+URL: /phpmyadmin/themes/original/img/s_rights.png
+Times: 1
+
+URL: /%7Ewengkai/trailwalk/02spring.files/filelist.xml
+Times: 1
+
+URL: /~wengkai/paper/HeTao.files/image002.gif
+Times: 1
+
+URL: /courses/CA/2012Spring/assignments/3090103120/002Lab3_%E5%BC%A0%E8%8A%B8_3090103120.pdf
+Times: 1
+
+URL: /%7Ewengkai/links.html
+Times: 1
+
+URL: /phpmyadmin/themes/original/img/b_empty.png
+Times: 1
+
+URL: /courses/SE/2011Summer/assignments/3090000128/1.1Project%20Plan%20of%20Ge%20Rui.doc
+Times: 1
+
+URL: /difs\xd0\xc2\xba\xf3\xd7\xba
+Times: 1
+
+URL: /%7Ewengkai/
+Times: 1
+
+URL: /ppa/themes/original/img/b_info.png
+Times: 1
+
+URL: /phpmyadmin1/index.php
+Times: 1
+
+URL: /courses/PT/2012Spring/3-2020UML.pdf
+Times: 1
+
+URL: /~wengkai/paper/LiBenjia.html
+Times: 1
+
+URL: /~wengkai/projects/2108/modules/testcodec/a.out
+Times: 1
+
+URL: /courses/JAVA/2011Fall/proposal/514-JAVA.ppt
+Times: 1
+
+URL: /courses/SE/2011Summer/assignments/3090000307/JP-4Answers%20to%20Lab%20Quiz%202.pdf
+Times: 1
+
+URL: /phpMyAdmin-2.5.1/index.php
+Times: 1
+
+URL: /web_ime/pynet.php
+Times: 1
+
+URL: /teamQuit
+Times: 1
+
+URL: /phpmyadmin/themes/original/img/b_selboard.png
+Times: 1
+
+URL: /mysql/index.php
+Times: 1
+
+URL: /courses/SE/2011Summer/assignments/3090101337/JP-3SELab_9_Labwork.pdf
+Times: 1
+
+URL: /ppa/favicon.ico
+Times: 1
+
+URL: /phpmyadmin/themes/original/img/b_sql.png
+Times: 1
+
+URL: /~wengkai/paper/HeTao.files/image017.jpg
+Times: 1
+
+URL: /plus/vuwhhero.php
+Times: 1
+
+URL: /~wengkai/projects/2108/modules/flash/
+Times: 1
+
+URL: /courses/SE/2011Summer/assignments/3090100553/JP-3estimation.pdf
+Times: 1
+
+URL: /~wengkai/paper/xuxiaolu.html
+Times: 1
+
+URL: /courses/OOP/2011Spring/assignments/3090103304/
+Times: 1
+
+URL: /courses/OOP/2011Spring/assignments/3090104966/
+Times: 1
+
+URL: /ppa/themes/original/img/window-new.png
+Times: 1
+
+URL: /ppa/themes/original/img/s_tbl.png
+Times: 1
+
+URL: /crossdomain.xml
+Times: 1
+
+URL: /courses/JAVA/2012Spring/assignments/3110100667/004a.java
+Times: 1
+
+URL: /temp/bhlcsfsave.asp
+Times: 1
+
+URL: /delStu.php
+Times: 1
+
+URL: /courses/SD/2011Spring/3%20Requirement.pdf
+Times: 1
+
+URL: /~wengkai/projects/2108/modules/flash/flash.o
+Times: 1
+
+URL: /phpmyadmin/themes/original/img/b_tblimport.png
+Times: 1
+
+URL: /courses/JAVA/2011Fall/proposal/513-java_project
+Times: 1
+
+URL: /%7Exgy/music/xialala/background/ygm%20-%20symgdj.wma
+Times: 1
+
+URL: /~wengkai/projects/2108/modules/testlcd/print.c
+Times: 1
+
+URL: /ppa/themes/original/img/b_newtbl.png
+Times: 1
+
+URL: /courses/ACL/2012Spring/assignments/3110104516/
+Times: 1
+
+URL: /~wengkai/projects/
+Times: 1
+
+URL: /~wengkai/paper/CaiHualin.html
+Times: 1
+
+URL: /~wengkai/ham/outdoorradio_files/outdoorradio.001.png
+Times: 1
+
+URL: /phpmyadmin/themes/original/img/b_props.png
+Times: 1
+
+URL: /~wengkai/projects/2108/modules/include/hardware.h
+Times: 1
+
+URL: /phpMyAdmin-2.5.6/index.php
+Times: 1
+
+URL: /include/vlgbdatalist.class.php
+Times: 1
+
+URL: /~wengkai/paper/XuXiaolu.files/image032.jpg
+Times: 1
+
+URL: /~wengkai/projects/2108/modules/include/
+Times: 1
+
+URL: /teamModi.php
+Times: 1
+
+URL: /courses/SE/2011Summer/assignments/3090300049/JP-43090300049_lab_quiz.pdf
+Times: 1
+
+URL: /~wengkai/paper/HeTao.files/image019.jpg
+Times: 1
+
+URL: /courses/PT/2012Spring%2020UML.pdf
+Times: 1
+
+URL: /showUser
+Times: 1
+
+URL: /showCourse
+Times: 1
+
+URL: /~wengkai/projects/2108/modules/flash/Makefile
+Times: 1
+
+URL: /~wengkai/projects/2108/modules/testflash/testflash
+Times: 1
+
+URL: /plus/rifpconfig_system.php
+Times: 1
+
+URL: /websql/index.php
+Times: 1
+
+URL: /courses/CA/2012Spring/assignment/
+Times: 1
+
+URL: /Games/ssueAdd_Save.Asp
+Times: 1
+
+URL: /plug/dwawsave.asp
+Times: 1
+
+URL: /phpmyadmin/themes/original/img/b_browse.png
+Times: 1
+
+URL: /~wengkai/trailwalk/02spring.files/DSC00531.JPG
+Times: 1
+
+URL: /courses/JAVA/2011Fall/1%20Introduction.pdf
+Times: 1
+
+URL: /courses/CA/2012Spring/assignments/3090100697/002pentest.php
+Times: 1
+
+URL: /ppa/js/server_privileges.js
+Times: 1
+
+URL: /ppa/themes/original/img/s_lang.png
+Times: 1
+
+URL: /phpmyadmin/themes/original/img/b_tblanalyse.png
+Times: 1
+
+URL: /modiExamDo.php
+Times: 1
+
+URL: /courses/PT/2012Spring/assignments/3100100512/105Weekly%20Report%205.pdf
+Times: 1
+
+URL: /courses/SE/2011Summer/assignments/3090300042/JP-4Lab%20Quiz%202.doc
+Times: 1
+
+URL: /ppa/js/querywindow.js
+Times: 1
+
+URL: /phpmyadmin/themes/original/img/b_tblexport.png
+Times: 1
+
+URL: /phpmyadmin/themes/original/img/b_tipp.png
+Times: 1
+
+URL: /ppa/themes/original/img/b_engine.png
+Times: 1
+
+URL: /~wengkai/paper/Mousava.html
+Times: 1
+
+URL: /ppa/themes/original/img/b_select.png
+Times: 1
+
+URL: /Temp/addqsave.asp
+Times: 1
+
+URL: /ppa/themes/original/img/b_usrlist.png
+Times: 1
+
+URL: /%7Exgy/music/xialala/yue30_3.mp3
+Times: 1
+
+URL: /~wengkai/projects/2108/modules/testlcd/
+Times: 1
+
+URL: /ppa/themes/original/img/b_import.png
+Times: 1
+
+URL: /showCour
+Times: 1
+
+URL: /phpMyAdmin/translators.html
+Times: 1
+
+URL: /~wengkai/ham/IMG_2596.jpg
+Times: 1
+
+URL: /courses/PT/2012Spring/UML.pdf
+Times: 1
+
+URL: /courses/SE/2011Summer/assignments/3090300045/JP-43090300045_LabQuiz02.rtf
+Times: 1
+
+URL: /myadmin/scripts/setup.php
+Times: 1
+
+URL: /courses/ACL/2011Spring/2%20ACLLib%20I.pdf
+Times: 1
+
+URL: /ppa/themes/original/img/b_newdb.png
+Times: 1
+
+URL: /~wengkai/projects/2108/modules/testhook/a.out
+Times: 1
+
+URL: /courses/JAVA/2011Fall/paper/t513.ppt
+Times: 1
+
+URL: /phpmyadmin/js/navigation.js
+Times: 1
+
+URL: /courses/JAVA/2012Spring/
+Times: 1
+
+URL: /adm/courses/OOP/2012Spring/assignments/3100104378/002assignment2%203100104378.zip
+Times: 1
+
+URL: /courses/SD/2011Summer/assignments/3090101337/011Weekly%20Report%201.pdf
+Times: 1
+
+URL: /editAssDo.php
+Times: 1
+
+URL: /~wengkai/trailwalk/02fall.htm..
+Times: 1
+
+URL: /courses/DAM/2011Fall/3_shortsimilarity1.ppt
+Times: 1
+
+URL: /xampp/phpmyadmin/index.php
+Times: 1
+
+URL: /courses/PT/2012Spring/320UML.pdf
+Times: 1
+
+URL: /~xgy/music/xialala/background/ygm-symgdj.wma
+Times: 1
+
+URL: /~wengkai/projects/2108/modules/testhook/tt.c
+Times: 1
+
+URL: /showgrade.php
+Times: 1
+
+URL: /climb/result.php
+Times: 1
+
+URL: /courses/DAM/2011Fall/7_PageRank.ppt
+Times: 1
+
+URL: /~wengkai/paper/YangWei.files/filelist.xml
+Times: 1
+
+URL: /phpmyadmin/themes/original/img/b_index.png
+Times: 1
+
+URL: /ppa/js/functions.js
+Times: 1
+
+URL: /phpMyAdmin-2.5.4/index.php
+Times: 1
+
+URL: /phpMyAdmin-2.2.6/index.php
+Times: 1
+
+URL: /ppa/themes/original/img/s_theme.png
+Times: 1
+
+URL: /~wengkai/projects/2108/modules/keypad/keypad.o
+Times: 1
+
+URL: /include/pybnconfig_system.php
+Times: 1
+
+URL: /courses/OOP/2011Spring/assignments/3090100703/
+Times: 1
+
+URL: /ppa/themes/original/img/arrow_ltr.png
+Times: 1
+
+URL: /courses/SD/2011Summer/assignments/3090000002/014Weekly_Report_OMGisaclient_0529.pdf
+Times: 1
+
+URL: /courses/PT/2012Spring/
+Times: 1
+
+URL: /courses/SE/2011Summer/13_testing_strategies.pdf
+Times: 1
+
+URL: /~wengkai/projects/2108/modules/keypad/keypad.h
+Times: 1
+
+URL: /courses/PT/2012Spring/3%2020UML.pdf
+Times: 1
+
+URL: /~wengkai/projects/2108/modules/testcodec/echo
+Times: 1
+
+URL: /~wengkai/aprsbox
+Times: 1
+
+URL: /ppa/themes/original/img/b_insrow.png
+Times: 1
+
+URL: /phpmyadmin/themes/original/img/s_status.png
+Times: 1
+
+URL: /~wengkai/ham/99052304.jpg
+Times: 1
+
+URL: /adm/delAss.php
+Times: 1
+
+URL: /phpmyadmin/translators.html
+Times: 1
+
+URL: /~wengkai/paper/YangWei.html
+Times: 1
+
+URL: /~wengkai/tem/G3103.jpg
+Times: 1
+
+URL: /~wengkai/projects/2108/hermit
+Times: 1
+
+URL: /data/cache/qripfuck.php
+Times: 1
+
+URL: /ppa/themes/original/img/logo_left.png
+Times: 1
+
+URL: /web/index.php
+Times: 1
+
+URL: /~wengkai/projects/2108/modules/flash/module.c
+Times: 1
+
+URL: /~wengkai/paper/ZhangHuangzhu.pdf
+Times: 1
+
+URL: /courses/SD/2011Summer/6%20Test.pdf
+Times: 1
+
+URL: /ppa/themes/original/img/s_vars.png
+Times: 1
+
+URL: /ppa/themes/original/img/s_notice.png
+Times: 1
+
+URL: /~wengkai/paper/HeTao.files/image011.jpg
+Times: 1
+
+URL: /ppa/themes/original/img/b_browse.png
+Times: 1
+
+URL: http://www.science.uva.nl/~mes/icons/smile.frown.gif
+Times: 1
+
+URL: /~wengkai/paper/HeTao.files/image009.jpg
+Times: 1
+
+URL: /~wengkai/projects/2108/modules/keypad/keyproc.c
+Times: 1
+
+URL: /ppa/themes/original/img/b_help.png
+Times: 1
+
+URL: /admin/phpmyadmin/index.php
+Times: 1
+
+URL: /%7Ewengkai/ham/9480.pdf
+Times: 1
+
+URL: /~wengkai/projects/2108/modules/testlcd/a.out
+Times: 1
+
+URL: /~wengkai/ham/zhejiangares.pdf
+Times: 1
+
+URL: /teamCreatedo.php
+Times: 1
+
+URL: /phpmyadmin/themes/original/img/b_insrow.png
+Times: 1
+
+URL: /courses/CA/2012Spring/assignments/3858
+Times: 1
+
+URL: /svn/aprs/
+Times: 1
+
+URL: /%7Exgy/music/xialala/background/Ronan%20Hardiman%20-%20That%20Place%20In%20Your%20Heart.wma
+Times: 1
+
+URL: /phpmyadmin/themes/original/img/b_newdb.png
+Times: 1
+
+URL: /bbs/data/lzeqdvbbs7.mdb
+Times: 1
+
+URL: /~wengkai/other/solar/after.jpg
+Times: 1
+
+URL: /~wengkai/projects/2108/modules/lcd/lcd.h
+Times: 1
+
+URL: /~wengkai/projects/2108/modules/lcd/lcd.o
+Times: 1
+
+URL: /yp/xjyeconfig_user.php
+Times: 1
+
+URL: /translators.html
+Times: 1
+
+URL: /phpmyadmin/themes/original/img/b_unique.png
+Times: 1
+
+URL: /phpmyadmin/themes/original/img/bd_ftext.png
+Times: 1
+
+URL: /plue/mjdtconfigg.php
+Times: 1
+
+URL: /phpmyadmin/themes/original/img/s_tbl.png
+Times: 1
+
+URL: /mysqladmin/index.php
+Times: 1
+
+URL: /w00tw00t.at.blackhats.romanian.anti-sec:)
+Times: 1
+
+URL: /courses/ADN/2011Summer/D3.pdf
+Times: 1
+
+URL: http://www.sciencedirect.com/
+Times: 1
+
+URL: /courses/OOP/2011Spring/assignments/3090104926/
+Times: 1
+
+URL: /dqxwgmsave.asp
+Times: 1
+
+URL: /courses/SD/2011Summer/assignments/3090100814/
+Times: 1
+
+URL: /plus/bbmipostocar.php
+Times: 1
+
+URL: /showCourse.ph
+Times: 1
+
+URL: /ppa/themes/original/img/s_rights.png
+Times: 1
+
+URL: /courses/DAM/2011Fall/8_SpamHits.ppt
+Times: 1
+
+URL: /ppa/themes/original/img/b_usrdrop.png
+Times: 1
+
+URL: /phpmyadmin/themes/original/img/b_select.png
+Times: 1
+
+URL: /courses/PT/2012Spring/APRS101.pdf
+Times: 1
+
+URL: /phpmyadmin/themes/original/img/s_theme.png
+Times: 1
+
+URL: /phpmyadmin/themes/original/img/window-new.png
+Times: 1
+
+URL: http://proxyjudge3.proxyfire.net/fastenv
+Times: 1
+
+URL: /courses/SD/2011Summer/assignments/3090000002/015Weekly_Report_OMGisaclient.pdf
+Times: 1
+
+URL: http://www.sina.com.cn/
+Times: 1
+
+URL: /%7Ewengkai/ham/tamen.html
+Times: 1
+
+URL: /tt/courses/PT/2012Spring/APRS101.pdf
+Times: 1
+
+URL: /phpmyadmin/themes/original/img/b_ftext.png
+Times: 1
+
+URL: /courses/CA/2012Spring/Spartan%203E%20Start%20Kit%20Board%20User%20Guide.pdf
+Times: 1
+
+URL: /~wengkai/trailwalk/02spring.files/DSC00549.JPG
+Times: 1
+
+URL: /phpmyadmin/js/querywindow.js
+Times: 1
+
+URL: /~wengkai/projects/2108/modules/keypad/interrupt.c
+Times: 1
+
+URL: /~wengkai/projects/2108/modules/hook/hook.o
+Times: 1
+
+URL: /logout.phplogout.php
+Times: 1
+
+URL: /~wengkai/projects/2108/modules/testhook/th
+Times: 1
+
+URL: /~wengkai/trailwalk/02spring.files/DSC00545.JPG
+Times: 1
+
+URL: /~wengkai/projects/2108/modules/keypad/module.c
+Times: 1
+
+URL: /test.htm
+Times: 1
+
+URL: /test.html
+Times: 1
+
+URL: /ppa/themes/original/img/b_sqlhelp.png
+Times: 1
+
+URL: /ppa/themes/original/img/s_warn.png
+Times: 1
+
+URL: /%7Ewengkai/projects/2108/modules
+Times: 1
+
+URL: /tt/courses/PT/2012Spring/APRS%20Procotol%20.pdf
+Times: 1
+
+URL: /ppa/themes/original/img/s_db.png
+Times: 1
+
+URL: /sh
+Times: 1
+
+URL: /ppa/themes/original/img/s_status.png
+Times: 1
+
+URL: /phpmyadmin/themes/original/img/s_vars.png
+Times: 1
+
+URL: /courses/JAVA/2011Spring/8%20Array.pdf
+Times: 1
+
+URL: /myadmin/index.php
+Times: 1
+
+URL: /plus/pyfdddos.php
+Times: 1
+
+URL: /courses/CA/2012Spring/assignments/3090100834/0023090100834_LIU%20Xiaolei_exp3.zip
+Times: 1
+
+URL: /~wengkai/projects/2108/modules/flash/htypes.h
+Times: 1
+
+URL: /viewGrade.php
+Times: 1
+
+URL: /4x4/g3101.jpg
+Times: 1
+
+URL: /ppa/themes/original/img/b_tipp.png
+Times: 1
+
+URL: /phpmyadmin/themes/original/img/b_sbrowse.png
+Times: 1
+
+URL: /ppa/js/tooltip.js
+Times: 1
+
+URL: /adm/editStudents.PHp
+Times: 1
+
+URL: /phpmyadmin/themes/original/img/b_home.png
+Times: 1
+
+URL: /ppa/themes/original/img/s_loggoff.png
+Times: 1
+
+URL: /phpmyadmin/js/tooltip.js
+Times: 1
+
+URL: /%7Ewengkai/paper/CaiHualin.html
+Times: 1
+
+URL: //editStudents.php
+Times: 1
+
+URL: /tt/showPost.php
+Times: 1
+
+URL: /phpmyadmin/themes/original/img/item_ltr.png
+Times: 1
+
+URL: /%7Ewengkai/other/solar/index.html
+Times: 1
+
+URL: /courses/CA/2012Spring/assignments/3858/
+Times: 1
+
+URL: /phpmyadmin/themes/original/img/b_import.png
+Times: 1
+
+URL: /courses/SD/2011Summer/assignments/3090300046/
+Times: 1
+
+URL: /sho
+Times: 1
+
+URL: /~wengkai/projects/2108/modules/testcodec/main.c
+Times: 1
+
+URL: /phpmyadmin/themes/original/img/s_lang.png
+Times: 1
+
+URL: /phpmyadmin2/index.php
+Times: 1
+
+URL: /courses/PT/2012Spring/3UML.pdf
+Times: 1
+
+URL: /courses/PT/2012Spring/assignments/3100100931/105Weekly%20Report%204.PDF
+Times: 1
+
+URL: /courses/JAVA/2011Fall/proposal/G506proposal.ppt
+Times: 1
+
+URL: /plus/npwuconfig_user.php
+Times: 1
+
+URL: /web/phpMyAdmin/index.php
+Times: 1
+
+URL: /include/nxrkgood.php
+Times: 1
+
+URL: /phpmyadmin/themes/original/img/b_primary.png
+Times: 1
+
+URL: /yp/jefdfuck.php
+Times: 1
+
+URL: /phpMyAdmin-2.5.5-pl1/index.php
+Times: 1
+
+URL: /courses/SD/2011Summer/assignments/3090000307/012Weekly%20Report%202.pdf
+Times: 1
+
+URL: /~wengkai/projects/2108/modules/keypad/Makefile
+Times: 1
+
+URL: /courses/SD/2011Summer/assignments/3090100689/006Software%20Test%20Report.pdf
+Times: 1
+
+URL: /%7Ewengkai/paper/YouJia.pdf
+Times: 1
+
+URL: /~wengkai/paper/YuChao.files/filelist.xml
+Times: 1
+
+URL: /~wengkai/ham/ARDF.swf
+Times: 1
+
+URL: /phpMyAdmin-2.5.6-rc2/index.php
+Times: 1
+
+URL: /courses/JAVA/2011Fall/proposal/Team_511.pdf
+Times: 1
+
+URL: /~wengkai/projects/2108/modules/lcd/LCD.asm
+Times: 1
+
+URL: /~wengkai/gct15
+Times: 1
+
+URL: /pma/index.php
+Times: 1
+
+URL: /~wengkai/paper/HeTao.files/image007.gif
+Times: 1
+
+URL: /courses/SD/2011Summer/assignments/3090100553/005Femdom%20Software%20Design%20Document%201.2.pdf
+Times: 1
+
+URL: /ppa/themes/original/img/b_tblops.png
+Times: 1
+
+URL: /%7Ewengkai/paper/ZhengHong.pdf
+Times: 1
+
+URL: /ppa/themes/original/img/b_drop.png
+Times: 1
+
+URL: /ppa/themes/original/img/b_tblanalyse.png
+Times: 1
+
+URL: /~wengkai/projects/2108/modules/testhook/th.c
+Times: 1
+
+URL: /ppa/themes/original/img/b_print.png
+Times: 1
+
+URL: /~wengkai/projects/2108/modules
+Times: 1
+
+URL: /typo3/phpmyadmin/index.php
+Times: 1
+
+URL: /~wengkai/paper/LiBenjia.files/image013.gif
+Times: 1
+
+URL: /%7Ewengkai/ham/MainBoard.html
+Times: 1
+
+URL: /courses/JAVA/2009Fall/jdk-6u12-windows-i586-p.exe
+Times: 1
+
+URL: /data/juzadvbbs7.mdb
+Times: 1
+
+URL: /courses/J2EE/2009Winter/assignment(2011summer).doc
+Times: 1
+
+URL: /ppa/themes/original/img/b_search.png
+Times: 1
+
+URL: /ppa/themes/original/img/b_props.png
+Times: 1
+
+URL: /courses/SD/2011Summer/assignments/3090100689/012weekly%20report2.pdf
+Times: 1
+
+URL: /~xgy/music/xialala/
+Times: 1
+
+URL: /yp/crzaddos_shell.php
+Times: 1
+
+URL: /~wengkai/projects/2108/modules/lcd/dep
+Times: 1
+
+URL: /ogfbsave.asp
+Times: 1
+
+URL: /~wengkai/paper/HeTao.files/image005.jpg
+Times: 1
+
+URL: /courses/SE/2011Summer/assignments/3090000307/JP-3Answers%20to%20Lab3.pdf
+Times: 1
+
+URL: /plus/cyilsystem.php
+Times: 1
+
+URL: /phpmyadmin/themes/original/img/s_process.png
+Times: 1
+
+URL: /crtf\xd0\xc2\xba\xf3\xd7\xba
+Times: 1
+
+URL: /~wengkai/projects/2108/modules/hook/module.c
+Times: 1
+
+URL: /courses/CA/2012Spring/
+Times: 1
+
+URL: //courses/CA/2012Spring/assignments/
+Times: 1
+
+URL: /courses/JAVA/2011Fall/proposal/505-DBFront.pdf
+Times: 1
+
+URL: /phpmyadmin/themes/original/img/b_docs.png
+Times: 1
+
+URL: /showCou
+Times: 1
+
+URL: /function.system
+Times: 1
+
+URL: /~wengkai/paper/
+Times: 1
+
+URL: /include/skqofuck.php
+Times: 1
+
+URL: /courses/OOP/2011Spring/assignments/3080104041/
+Times: 1
+
+URL: /phpmyadmin/themes/original/img/b_deltbl.png
+Times: 1
+
+URL: /~wengkai/ham/n99052304.jpg
+Times: 1
+
+URL: /phpmyadmin/themes/original/img/logo_left.png
+Times: 1
+
+URL: /~wengkai/trailwalk/02spring.files/DSC00508.JPG
+Times: 1
+
+URL: /courses/PT/2012Spring/aprs.pdf
+Times: 1
+
+URL: /~wengkai/projects/2108/modules/codec/codec.h
+Times: 1
+
+URL: /phpmyadmin/themes/original/img/s_loggoff.png
+Times: 1
+
+URL: /s
+Times: 1
+
+URL: /phpMyAdmin-2/index.php
+Times: 1
+
+URL: /~wengkai/projects/2108/modules/codec/codec.o
+Times: 1
+
+URL: /courses/OOP/2012Spring/assignments/3100104378/002assignment2%203100104378.zip
+Times: 1
+
+URL: /courses/CA/2012Spring/assignments/3090104937/100The_New_Landscape_of_Parallel_Computer_Architecture.pdf
+Times: 1
+
+URL: /%7Ewengkai/ham/GPwin1.html
+Times: 1
+
+URL: /~wengkai/projects/2108/modules/testflash/DEADJOE
+Times: 1
+
+URL: /~wengkai/projects/2108/modules/testlcd/print
+Times: 1
+
+URL: /courses/SE/2011Summer/assignments/3090100689/3team5.pdf
+Times: 1
+
+URL: /courses/CA/2012Spring/assignments/3090104937/002Lab2_report.pdf
+Times: 1
+
+URL: /ppa/themes/original/img/b_usredit.png
+Times: 1
+
+URL: /~wengkai/ham/2003-39.html
+Times: 1
+
+URL: /phpmyadmin/themes/original/img/b_newtbl.png
+Times: 1
+
+URL: /~wengkai/paper/ZhengHong.html
+Times: 1
+
+URL: /plus/loitsynconfig.php
+Times: 1
+
+URL: /courses/SE/2011Summer/SE05_Lecture7.pdf
+Times: 1
+
+URL: /courses/JAVA/2011Fall/paper/506-paper_presentation.pdf
+Times: 1
+
+URL: /yp/ioaigood.php
+Times: 1
+
+URL: /plus/dtvzgood.php
+Times: 1
+
+URL: /~wengkai/projects/2108/ramloader.bin
+Times: 1
+
+URL: /ppa/themes/original/img/b_sql.png
+Times: 1
+
+URL: /~wengkai/projects/2108/modules/lcd/.depend
+Times: 1
+
+URL: /db/index.php
+Times: 1
+
+URL: /include/hynxddos_shell.php
+Times: 1
+
+URL: /~wengkai/projects/2108/voip.conf
+Times: 1
+
+URL: /phpmyadmin/themes/original/img/b_drop.png
+Times: 1
+
+URL: /PPA
+Times: 1
+
+URL: /phpmyadmin/themes/original/img/b_info.png
+Times: 1
+
+URL: /climb/home.php
+Times: 1
+
+URL: /courses/OOP/2011Spring/assignments/3080101294/
+Times: 1
+
+URL: /phpmyadmin/css/print.css
+Times: 1
+
+URL: /phpMyAdmin-2.5.7/index.php
+Times: 1
+
+URL: /showC
+Times: 1
+
+URL: /phpmyadmin/themes/original/img/b_tblops.png
+Times: 1
+
+URL: /~wengkai/projects/2108/modules/lcd/
+Times: 1
+
+URL: /~wengkai/projects/2108/modules/testflash/
+Times: 1
+
+URL: /~wengkai/other/solar/before.jpg
+Times: 1
+
+URL: /phpmyadmin/themes/original/img/b_print.png
+Times: 1
+
+URL: /courses/DAM/2011Fall/2_recommendationSystems.ppt
+Times: 1
+
+URL: /~wengkai/aprsbox/IMG_93021.JPG
+Times: 1
+
+URL: /phpMyAdmin-2.5.5-rc1/index.php
+Times: 1
+
+URL: /phpmyadmin/themes/original/img/s_host.png
+Times: 1
+
+URL: /~wengkai/projects/2108/modules/lcd/Makefile
+Times: 1
+
+URL: /ppa/themes/original/img/b_deltbl.png
+Times: 1
+
+URL: /courses/ACL/2012Spring/assignments/3110104516/001proposal.txt
+Times: 1
+
+URL: /include/mssrconfig2.php
+Times: 1
+
+URL: /courses/JAVA/2012Spring
+Times: 1
+
+URL: /courses/ADN/2011Summer/D6.pdf
+Times: 1
+
+URL: /show
+Times: 1
+
+URL: /courses/SD/2011Summer/assignments/3090000128/
+Times: 1
+
+URL: /phpmyadmin/themes/original/img/b_help.png
+Times: 1
+
+URL: /courses/CA/2012Spring/Exp%202_new.pdf
+Times: 1
+
+URL: /phpMyAdmin-2.5.6-rc1/index.php
+Times: 1
+
+URL: /showCo
+Times: 1
+
+URL: /~wengkai/projects/2108/modules/codec/Makefile
+Times: 1
+
+URL: /phpMyAdmin-2.5.7-pl1/index.php
+Times: 1
+
+URL: /yp/tegnconfig_system.php
+Times: 1
+
+URL: /index_tpl.html
+Times: 1
+
+URL: /phpMyAdmin-2.5.5-rc2/index.php
+Times: 1
+
+URL: /phpmyadmin/themes/original/img/s_reload.png
+Times: 1
+
+URL: /admin/index.php
+Times: 1
+
+URL: /phpmyadmin/themes/original/img/b_edit.png
+Times: 1
+
+URL: /courses/SE/2011Summer/22_23_metrics_estimation.pdf
+Times: 1
+
+URL: /~wengkai/projects/2108/modules/testcodec/rec
+Times: 1
+
+URL: /ppa/themes/original/img/s_process.png
+Times: 1
+
+URL: /~wengkai/projects/2108/modules/flash/flash_intel.c
+Times: 1
+
+URL: /ppa/themes/original/img/s_reload.png
+Times: 1
+
+URL: /ppa/themes/original/img/b_export.png
+Times: 1
+
+URL: /tt/editProfileDo.php
+Times: 1
+
+URL: /data/cache/chsuconfig_system.php
+Times: 1
+
+URL: /showUser.php
+Times: 1
+
+URL: /pma/scripts/setup.php
+Times: 1
+
+URL: /courses
+Times: 1
+
+URL: /phpmyadmin/themes/original/img/s_fulltext.png
+Times: 1
+
+URL: /ppa/themes/original/img/s_asci.png
+Times: 1
+
+URL: /%7Ewengkai/tem/g3103
+Times: 1
+
+URL: /%7Ewengkai/tem/g3101
+Times: 1
+
+URL: /%7Ewengkai/paper/CaiHualin.pdf
+Times: 1
+
+URL: /courses/SE/2011Summer/assignments/3090101337/JP-2team1.pdf
+Times: 1
+
+URL: /~wengkai/projects/2108/2108desc.jpg
+Times: 1
+
+URL: /data/admin/ver.txt
+Times: 1
+
+URL: /courses/SD/2011Summer/assignments/3090100689/
+Times: 1
+
+URL: /delSche.php
+Times: 1
+
+URL: /courses/ADN/2011Summer/D4.pdf
+Times: 1
+
+URL: /%7Ewengkai/projects/2108/boardDesc.html
+Times: 1
+
+URL: /~wengkai/other/solar/old2.jpg
+Times: 1
+
+URL: /courses/SE/2011Summer/assignments/3090000307/JP-1ZANY.doc
+Times: 1
+
+URL: /courses/OOP/2011Spring/assignments/3090101023/
+Times: 1
+
+URL: /ppa/themes/original/img/item_ltr.png
+Times: 1
+
+URL: /phpMyAdmin/scripts/setup.php
+Times: 1
+
+URL: http://www.springerlink.com/
+Times: 1
+
+URL: /include/nbgdconfig_user.php
+Times: 1
+
+URL: /phpadmin/index.php
+Times: 1
+
+URL: /courses/JAVA/2011Fall/proposal/524-Email_Service.pdf
+Times: 1
+
+URL: /showCourse.p
+Times: 1
+
+URL: /courses/CA/2012Spring/3%20Evaluation.pdf
+Times: 1
+
+URL: /dbadmin/index.php
+Times: 1
+

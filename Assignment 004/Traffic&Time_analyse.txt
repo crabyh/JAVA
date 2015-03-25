@@ -1,0 +1,35 @@
+Total Traffic: 1129276709
+
+Hour: 0  	Times: 420
+Hour: 1  	Times: 103
+Hour: 2  	Times: 87
+Hour: 3  	Times: 69
+Hour: 4  	Times: 79
+Hour: 5  	Times: 211
+Hour: 6  	Times: 81
+Hour: 7  	Times: 1735
+Hour: 8  	Times: 706
+Hour: 9  	Times: 1599
+Hour: 10  	Times: 2717
+Hour: 11  	Times: 1281
+Hour: 12  	Times: 16188
+Hour: 13  	Times: 1488
+Hour: 14  	Times: 2159
+Hour: 15  	Times: 1273
+Hour: 17  	Times: 8538
+Hour: 16  	Times: 598
+Hour: 19  	Times: 3568
+Hour: 18  	Times: 2117
+Hour: 21  	Times: 3496
+Hour: 20  	Times: 2038
+Hour: 23  	Times: 1048
+Hour: 22  	Times: 1939
+
+Day: 19  	Times: 5044
+Day: 18  	Times: 9450
+Day: 21  	Times: 4736
+Day: 20  	Times: 22126
+Day: 23  	Times: 7634
+Day: 22  	Times: 3808
+Day: 25  	Times: 34
+Day: 24  	Times: 706
